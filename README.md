@@ -1,0 +1,2 @@
+# paradigmaFuncional
+paradigmaFuncional
